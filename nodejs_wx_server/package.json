@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_wx_server",
+  "version": "1.0.0",
+  "description": "wx_server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "clown",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "express-xml-bodyparser": "^0.3.0",
+    "wechat-api": "^1.35.1",
+    "xml2js": "^0.4.19"
+  }
+}
